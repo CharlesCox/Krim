@@ -1,0 +1,93 @@
+Maegen Spell Notes 
+
+Available Spells
+Baseline: (x 0th, x 1st, 4 2nd, 4 3rd, 4 5th, 4 6th, 4 7th, 4 8th, 4 9th + 4 any)
+2 Captured Spellbooks (10th+17th)
+
+Needed Spells
+1st: Cause Fear, Chill Touch, Ray of Enfeeblement, Alarm, Endure Elements, Hold Portal, Protection from Chaos, Shield, 
+2nd: Arcane Lock, See Invisibility, Protection from Arrows, Command Undead, 
+3rd: Dispel Magic, Lightning Bolt, Nondetection, Halt Undead, 
+4th: Black Tentacles, Animate Dead, Enervation, Wall of Ice
+5th: Permanency, Prying Eyes, Magic Jar, Cone of Cold
+6th: Greater Dispel Magic, Circle of Death, Create Undead, Guards and Wards
+7th: Greater Teleport, Simulacrum, Control Undead, Spell Turning
+8th: Mind Blank, Clone, Create Greater Undead, Symbol of Death
+9th: Steal Life, Wail of the Banshee, Astral Projection, ()
+
+
+Notable Spells
+1st: Fleet Step, Force Barrage, Gentle Landing, Grim Tendrils, Jump, Lock, Mystic Armor, Phantasmal Minion
+2nd: Environmental Endurance, Everlight, Knock, Invsibility, Water Breathing, Bone Spray
+3rd: Cozy Cabin, Fireball, Haste, Lightning Bolt, Mind Reading, Veil of Privacy, Chilling Darkness, Wall of Shadow
+4th: Liminal Doorway, Ice Storm, Replicate, Shape Stone, Vision of Death
+5th: Magic Passage, Mind Probe, Slither
+6th: Truesight, Wall of Force
+7th: Duplicate Foe, Planar Palace, Planar Seal, Project Image, Spell Riposte
+8th: Unrelenting Observation
+9th: Falling Stars
+
+
+1st: Alarm, Fear, Summon Undead, Grim Tendrils
+2nd: Darkness, Dispel Magic, Peaceful Rest, Bone Spray
+3rd: Bind Undead, Clairaudience, Lightning Bolt, Cozy Cabin
+4th: Clairvoyance, Detect Scrying, Fly, Shape Stone
+5th: Scouting Eye, Umbral Journey, Slither, Mind Probe
+6th: Scrying, Teleport, Truesight, Wall of Force
+7th: Contingency, Eclipse Burst, Retrocognition, Planar Seal
+8th: Hidden Mind, Pinpoint, Disappearance
+9th: Massacre, Bilocation
+
+Rituals
+2: Create Undead
+
+Necromancy
+	Undead
+		Undead Creation
+			Summon Undead, Create Undead
+		Undead Control
+			Bind Undead
+		Corpse Manipualation
+			Peaceful Rest
+    Combat Necromancy
+        Soul Manipulation
+            Fear
+        Wrath
+            Bone Spray, Massacre
+        Drain
+Shadow
+	Netherworld
+		Darkness
+			Darkness, Eclipse Burst, Grim Tendrils
+		Shadow Travel
+			Umbral Journey, ?Teleport?
+		Shadow Creatures
+            Bilocation
+Metamagic
+    Metamagic
+        Weal and Woe
+            , 
+Abjuration
+    Large Area
+        Wards
+            Planar Seal, Alarm, Cozy Cabin
+        Barriers
+            Wall of Force
+    Small Area
+        Traps
+        Mantles
+            Hidden Mind, Disappearance, Contingency
+    Meta
+        Meta
+            Dispel Magic
+Divination
+    Clairvoyance, Scouting Eye, Scrying, Pinpoint, Retrocognition
+
+
+
+Necromancy
+	Undead
+		Undead Creation
+		Undead Control
+		Undead Affecting
+	Combat
