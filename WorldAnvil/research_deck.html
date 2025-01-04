@@ -1,0 +1,115 @@
+<div>
+	<h1>{{ variables.name }}</h1>
+    <h2>Prerequisites:</h2><br>
+    {% for a_req in variables.requirements | split("\n") %}
+        {% set cur_split = a_req | split("|") %}
+        {% set name = cur_split[0] %}
+        {% set days_req = cur_split[1] %}
+        {% set skill = cur_split[2] %}
+        {% set description = cur_split[3] %}
+        <p><b>{{name}}</b>({{days_req}} days, {{skill}}): {{description}}</p>
+    {% endfor %}
+    <dt> Unit Allocation: </dt>
+    <dd>
+        {% set days_per_draw = 0 %}
+        {% set unit_splits = variables.allocations | split("|") %}
+        {% for a_req in variables.requirements | split("\n") %}
+            {% set cur_split = a_req | split("|") %}
+            {% set name = cur_split[0] %}
+            {% set days_req = cur_split[1] %}
+            {% set unit_alloc = unit_splits[loop.index0] %} 
+            {% set days_per_draw = days_per_draw + days_req*unit_alloc %}
+            {% if loop.index0 != 0 %}, {% endif %}{{ name }} {{unit_alloc}} unit
+        {% endfor %}
+        ({{days_per_draw}} days total)
+    </dd>
+    {% set erudition_draws = 0 %}
+    {% set total_erudition = 0 %}
+    {% set dud_count = 0 %}
+    {% set new_erudition_list = "Erudition Amount|Erudition Group|Number of Draws|Draws in Group|Erudition in Group\n" %}
+    {% set erudition_list = variables.erudition_draws | split("\n") %}
+    {% set erudition_length = erudition_list | length %}
+    {% set current_length = 0 %}
+    {% for a_erudition_info in variables.erudition_draws | split("\n") %}
+        {% set cur_split = a_erudition_info | split("|") %}
+        {% set draw_split = cur_split[2] | split("/") %}
+        {% set value_split = cur_split[0] | split("/") %}
+        {% set row_draws = 0 %}
+        {% set row_erudition = 0 %}
+        {% set current_length = current_length + 1 %}
+        {% for a_value in value_split %}
+            {% set draw_value = cycle(draw_split, loop.index0) %}
+            {% set erudition_draws = erudition_draws + draw_value %}
+            {% set total_erudition = total_erudition + a_value*draw_value %}
+            {% set row_draws = row_draws + draw_value %}
+            {% set row_erudition = row_erudition + a_value*draw_value %}
+            {% if (a_value) == 1 %}
+                {% set dud_count = dud_count + draw_value %}
+            {% endif %}
+            {% if (a_value) == 2 %}
+                {% set dud_count = dud_count + draw_value %}
+            {% endif %}
+        {% endfor %}
+        {% set row_str = cur_split[0]~"|"~cur_split[1]~"|"~cur_split[2]~"|"~row_draws~" draws|"~row_erudition~" total erudition" %}
+        {% set row_str = row_str|replace({ '\r\n': '', '\n': '', '\r': '' }) %}
+        {% if current_length == erudition_length %}
+            {% set new_erudition_list = new_erudition_list~row_str %}
+        {% else %}
+            {% set new_erudition_list = new_erudition_list~row_str~"\n" %}
+        {% endif %}
+    {% endfor %}
+    {% set effect_length = variables.effects | length %}
+    {% set application_length = variables.applications | length %}
+    {% set effect_app_description_length = variables.effect_and_application_descriptions | length %}
+    {% set effect_draws = 0 %}
+    {% set application_draws = 0 %}
+    {% for a_effect in variables.effects | split("\n") %}
+        {% set cur_split = a_effect | split("|") %}
+        {% set name = cur_split[0] %}
+        {% set num_manuscripts = cur_split[1] %}
+        {% set num_effect = cur_split[2] %}
+        {% set effect_draws = effect_draws + num_manuscripts*num_effect %}
+    {% endfor %}
+    {% for a_application in variables.applications | split("\n") %}
+        {% set cur_split = a_application | split("|") %}
+        {% set name = cur_split[0] %}
+        {% set num_manuscripts = cur_split[1] %}
+        {% set num_application = cur_split[2] %}
+        {% set application_draws = application_draws + num_manuscripts*num_application %}
+    {% endfor %}
+    {% set total_draws = erudition_draws + effect_draws + application_draws %}
+    {% set application_frac = application_draws/total_draws*100 | round %}
+    {% set effect_frac = effect_draws/total_draws*100 | round %}
+    {% set erudition_frac = erudition_draws/total_draws*100 | round %}
+	{% if variables.stack_limit is defined and variables.stack_limit | length > 0 %}
+        <dt>Stack Limit</dt>
+        <dd> {{ variables.stack_limit}} </dd>
+    {% endif %}
+    {% if variables.draws is defined %}
+        <dt>Draws</dt>
+        <dd> {{ variables.draws}} </dd>
+    {% endif %}
+    <h2>Cards ({{total_draws}} cards) ({{total_draws*days_per_draw/variables.draws}} days)</h2>
+	{% if variables.erudition_draws is defined %}
+        <h3><dt>Erudition ({{erudition_draws}} draws) ({{dud_count}} effective duds) ({{total_erudition}} total erudition) ({{erudition_frac}}%)</dt></h3>
+        <dd>{{ new_erudition_list|ParseTable}} </dd>
+    {% endif %}
+    {% if variables.effects is defined and effect_length > 0 %}
+        <h3><dt>Effects ({{effect_draws}} draws) ({{effect_frac}}%)</dt></h3>
+        {% set cur_effect_list = "Effect|Number of Manuscripts|Number of Effect\n" %}
+        {% set cur_effect_list = cur_effect_list~ variables.effects %}
+		<dd> {{ cur_effect_list|ParseTable}} </dd>
+    {% endif %}
+	{% if variables.applications is defined and application_length > 0 %}
+        <h3><dt>Applications ({{application_draws}} draws) ({{application_frac}}%)</dt></h3>
+        {% set cur_application_list = "Application|Number of Manuscripts|Number of Application\n" %}
+        {% set cur_application_list = cur_application_list~ variables.applications %}
+        <dd> {{ cur_application_list|ParseTable}} </dd>
+    {% endif %}
+    {% if variables.effect_and_application_descriptions is defined and effect_app_description_length > 0 %}
+		<h3><dt>Effect and Application Descriptions</dt></h3>
+        {% set cur_description_list = "Application|Description\n" %}
+        {% set cur_description_list = cur_description_list~ variables.effect_and_application_descriptions %}
+		<dd> {{ cur_description_list|ParseTable}} </dd>
+    {% endif %}
+</div>

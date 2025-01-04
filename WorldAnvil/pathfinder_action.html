@@ -1,0 +1,41 @@
+<!--Display action icons created with inline svg. Inline svg can be smoothly scaled and colored via css using fill and stroke -->
+{% if variables.action  is defined and variables.action  != 'Passive Effect (no action icon)' %}
+	{% if variables.action |trim == 'Reaction' %}
+		<!-- Created with Inkscape (http://www.inkscape.org/) -->
+		<svg version="1.1" height="33px" width="auto" viewBox="0 0 50 25" xmlns="http://www.w3.org/2000/svg">
+		 <title>Pathfinder reaction icon</title>
+		 <path d="m16.021 0.0043429a10.891 16.384 87.706 0 0-16.021 8.7687 8.8665 13.203 87.643 0 1 11.847-5.1536 8.8665 13.203 87.643 0 1 13.123 8.6239 8.8665 13.203 87.643 0 1-7.5945 8.1439c-0.25727-1.6702-0.0039-3.412 0.8065-4.9796l-12.284 6.8634 13.803 2.7289c-0.94445-0.95531-1.6234-2.0936-2.0184-3.31a10.891 16.384 87.706 0 0 14.623-11.092 10.891 16.384 87.706 0 0-16.284-10.593z" style="stroke-width:0"/>
+		</svg>
+	{% endif %}
+	{% if variables.action |trim == 'Free Action' %}
+		<!-- Created with Inkscape (http://www.inkscape.org/) -->
+		<svg version="1.1" height="33px" width="auto" viewBox="0 0 50 25" xmlns="http://www.w3.org/2000/svg">
+		 <title>Pathfinder free action icon</title>
+		 <g transform="matrix(.33814 0 0 .33814 -29.756 -.1803)" fill="none">
+		  <rect transform="rotate(45)" x="92.241" y="-84.487" width="45.279" height="45.279" stroke-width="7"/>
+		  <rect transform="rotate(45)" x="94.241" y="-62.898" width="21.69" height="21.69" stroke-width="11"/>
+		 </g>
+		</svg>
+	{% endif %}
+	{% if variables.action |trim == 'Single Action' %}
+		<!-- Created with Inkscape (http://www.inkscape.org/) -->
+		<svg version="1.1" height="33px" width="auto" viewBox="0 0 50 25" xmlns="http://www.w3.org/2000/svg">
+		 <title>Pathfinder single action icon</title>
+		 <path d="m12.5 0.2701-6.0482 6.0482 6.1817 6.1817-6.1817 6.1817 6.0482 6.0482 12.23-12.23zm-8.068 8.068-4.1619 4.1619 4.1619 4.1612 4.1612-4.1612z" style="stroke-width:0"/>
+		</svg>
+	{% endif %}
+	{% if variables.action |trim == 'Two-Action Activity' %}
+		<!-- Created with Inkscape (http://www.inkscape.org/) -->
+		<svg version="1.1" height="33px" width="auto" viewBox="0 0 50 25" xmlns="http://www.w3.org/2000/svg">
+		 <title>Pathfinder two-action acivity icon</title>
+		 <path d="m12.5 0.27011-6.0482 6.0482 6.1817 6.1817-6.1817 6.1817 6.0482 6.0482 12.23-12.23zm15.471 1.4634-5.0129 5.0135 5.7529 5.7529-5.7529 5.7536 5.0129 5.0129 10.766-10.766zm-23.539 6.6045-4.1619 4.1619 4.1619 4.1612 4.1612-4.1612z" style="stroke-width:0"/>
+		</svg>
+	{% endif %}
+	{% if variables.action |trim == 'Three-Action Activity' %}
+		<!-- Created with Inkscape (http://www.inkscape.org/) -->
+		<svg version="1.1" height="33px" width="auto" viewBox="0 0 50 25" xmlns="http://www.w3.org/2000/svg">
+		 <title>Pathfinder three-action activity icon</title>
+		 <path d="m12.053 0.2496-5.8708 6.0736 6.0005 6.2078-6.0005 6.2077 5.8708 6.0736 11.871-12.281zm15.017 1.4696-4.8659 5.0346 5.5843 5.7771-5.5843 5.7778 4.8659 5.0339 8.1627-8.444 2.288-2.3677-2.288-2.3677zm14.087 2.3147-3.824 3.9567 4.3887 4.5403-4.3887 4.5403 3.824 3.9561 8.2133-8.4963zm-36.935 4.3176-4.0399 4.1794 4.0399 4.1787 4.0392-4.1787z" style="stroke-width:0"/>
+		</svg>
+	{% endif %}
+{% endif %}
