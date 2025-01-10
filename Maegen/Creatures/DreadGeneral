@@ -1,0 +1,27 @@
+Overview:
+    A military commander that has been restored to unlife to continue campaigning into an unholy semi-chivalric
+order. A Dread soldier is an undead being of war and violence Generally resembling skeletons but with an unholy glow in their eyes. They are often found leading squads of skeletons but somtimes are found in larger formations that empower all their members. 
+
+Key Abilities:
+Power in Heirarchy: The Dread General can form part of a larger command heirarchy. This serves to boost both his powers and those under him depending on how many there are in the same formation.
+If the linked formation contains 2-9 members:
+    Combat Bonus + the control limit increases to 2 skeletons
+If the linked formation contains 10-73 members: (8x8+8+1)
+    Combat Bonus+ Squad Bonus + the control limit increases to 4 skeletons
+If the linked formation contains more than 73 members:
+    Combat bonus+ Squad Bonus + Formation Bonus + the control limit increases to 6 skeletons
+To induct a new member into the formation requirest a ritual taking 1 hour in which 
+the new member cermonially joins the formation and pledges to remain loyal to the formation. Either the creator or a full squad must be present for the induction. A formation member can only have 8 active inductees at one time, the inductees under a member are referred to as their squad. As part of this they must pledge to maintain the organizations Anathema and . If a pledge violates the anathema they lose all benefits of the formation until they benefit from an atonement spell. If a member breaks the anathema and they do not atone or if they die and are not replaced within one week then they are no longer a member of the formation and do not count for the overall formation size. Linked members only count for the combat benefits if they are within 10 miles of each other.
+
+Any member of the formation can sense the location of any formation members who report up to them (i.e. inducted by them or their inductees) within 1 mile. If a member violates the anathema of the formation then all other members of their squard as well as their leader are aware of the violation.
+
+...
+Command Skeleton (concentrate, arcane, incapacitation): The dread soldier intones arcane words of power as part of a 10 minute ritual to gain control of a skeleton. If present at the creation the ritual can be undertaken simultaneously with the create undead ritual. A skeleton that is mindless and not under someone else's control falls under their control automatically; otherwise, the skeleton or its controller can attempt a DC 22 Will save to avoid it being controlled (whichever has the higher modifier). The target skeleton is temporarily immune for 24 hours if successful. The attempt fails if the skeleton is level {x} or higher.
+The skeleton remains controlled by the dread soldier until either is destroyed. A dread soldier can control up to 2 or more skeletons at a time, determined by the power in heirarchy ability. If the dread soldier would control a number of skeletons over this limit, they choose which to release.
+
+{x} is a function of where in the heirarchy they are, if they have no one above them then {x} = 9 if they have one person above them {x} = 5, if they have two or more above them {x} = 3. The dread soldier cannot command a skeleton of a level equal to or higher than their own level.
+
+
+Reconstruction (arcane): When a dread solider is destroyed their body begins to reconstruct itself in a process that takes 1 minutes per level of the dread soldier. The dread soldier is reconstructed with 1/2 hit points and all abilities. This reconstruction can only be stopped by taking damage from a holy source.
+
+Formation Durability (arcane): When a formation member is destroyed, they can be reconstructed by a ritual that takes 1 hour by their commander. The ritual requires the dread soldier's bones and one to three other skeletons depending on how throughly the dread soldier was destoryed. The dread soldier is reconstructed with full hit points and all abilities. If the dread soldier is not reconstructed within 1 week of being destroyed, they are permanently destroyed and cannot be reconstructed by this ability. If the dread soldier is reconstructed by this ability, they cannot be reconstructed again for 1 week.

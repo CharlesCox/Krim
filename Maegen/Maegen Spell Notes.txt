@@ -38,13 +38,201 @@ Notable Spells
 8th: Hidden Mind, Pinpoint, Disappearance
 9th: Massacre, Bilocation
 
-Rituals
+Desired Rituals
 2: Create Undead
+3: Phantasmal Custodians, Rune Trap
+4: Shadow Double
+5: Astral Projection, Call Spirit, Resurrect, Waters of Prediciton
+6: Ward Domain
+7: Teleportation Circle
+8: Create Demiplane, Imprisonment, Split Shadow* (Blood Lords Adventure Path)
+9: Clone
+
+Mystic Armor, Environmental Endurance, Everlight, Water Breathing, Fireball, Lightning Bolt
+[h1]General Notes[/h1]
+[h2]Research Ability[/h2]
+13th Level - Base +23[br]
+14th level - Base +24[br]
+17th level - Base +31[br]
+20th level - Base +35[br]
+[h1]Arcana[/h1]
+    [ul]
+        [li]Necromancy
+            [ul]
+                [li]Mortem Anima
+                    [ul]
+                        [li]Corporeal - Creation of non-physical need undead (skeleton, zombie, lich)[/li]
+                        [li]Hungry - Creation of physical need undead (vampire, ghoul, etc)[/li]
+                        [li]Incorporeal - Creation of incorporeal undead[/li]
+                    [/ul]
+                [/li]
+                [li]Mortem Imperium
+                    [ul]
+                        [li]Domination - Spells that control undead[/li]
+                        [li]Affectation - spells that boost undead and/or transform undead[/li]
+                    [/ul]
+                [/li]
+                [li]Vitae
+                    [ul]
+                        [li]Soul Necromancy - Soul Trap, Astral Projection[/li]
+                        [li]Wrath Necromancy - direct damage and death effects[/li]
+                        [li]Drain Necromancy - indirect damage (stat, negative level, etc.)[/li]
+                    [/ul]
+                [/li]
+            [/ul]
+        [/li]
+        [li]Shadow
+            [ul]
+                [li]Netherworld
+                    [ul]
+                        [li]Travel - planar travel through or to the Plane of Shadow (Shadow walk) or via a vis it[/li]
+                        [li]Shadow Binding - the inhabitants of the plane of shadows and their binding[/li]
+                        [li]Shadow Summoning - the inhabitants of the plane of shadows and their summoning[/li]
+                        [li]Shadow Control - the inhabitants of the plane of shadows and their control[/li]
+                        [li]Shadow Creation - the inhabitants of the plane of shadows and their creation[/li]
+                    [/ul]
+                [/li]
+                [li]Shade
+                    [ul]
+                        [li]Darkness - spells dealing directly with a reduction of light and/or creation control of darkness[/li]
+                        [li]Mimicry - quasi-real mimicry of effects (Shadow Blast)[/li]
+                        [li]Creation - (Imaginary Lockbox, etc)[/li]
+                        [li]Movement - Haste and similar movement buffs[/li]
+                    [/ul]
+                [/li]
+                [li]Illusion
+                    [ul]
+                        [li]Duplication - dealing with shadowy doubles of things or creatures[/li]
+                        [li]Hide - personal concealment and disguise[/li]
+                        [li]Project - visual and auditory external illusions[/li]
+                    [/ul]
+                [/li]
+            [/ul]
+        [/li]
+        [li]Manipulation
+            [ul]
+                [li]Large Area
+                    [ul]
+                        [li]Wards - Area defenses[/li]
+                        [li]Barriers - Globes/walls etc.[/li]
+                    [/ul]
+                [/li]
+                [li]Small Scale
+                    [ul]
+                        [li]Mantles - Personal defenses[/li]
+                        [li]Traps - Item or specific location based (Symbols, Sepia Snake Sigil, glyphs)[/li]
+                    [/ul]
+                [/li]
+                [li]External Shaping (Non-Creature)
+                    [ul]
+                        [li]Permanent[/li]
+                        [li]Temporary[/li]
+                    [/ul]
+                [/li]
+            [/ul]
+        [/li]
+        [li]Divination
+            [ul]
+                [li]Temporal
+                    [ul]
+                        [li]Prophecy - Prediction of the future[/li]
+                        [li]Historical - Investigation of the past[/li]
+                    [/ul]
+                [/li]
+                [li]Sensing
+                    [ul]
+                        [li]Magic - Detecting magical effects/emanations[/li]
+                        [li]Creatures - Locating creatures[/li]
+                        [li]Objects - Locating objects or items[/li]
+                        [li]Sensors - creating sensors to sense remotely[/li]
+                        [li]Mind Reading[/li]
+                    [/ul]
+                [/li]
+            [/ul]
+        [/li]
+        [li]Artifice
+            [ul]
+                [li]Constructs
+                    [ul]
+                        [li]Bound - Homonucli and other constructs that are bound an individual[/li]
+                        [li]Statuary - humanoid/creature like constructs[/li]
+                        [li]Animated Objects - animated ballista and the like[/li]
+                    [/ul]
+                [/li]
+                [li]Wondrous Items
+                    [ul]
+                        [li]Wands[/li]
+                        [li]Staves[/li]
+                        [li]Miscelaneous Magic Items[/li]
+                        [li]Apex[/li]
+                    [/ul]
+                [/li]
+                [li]Potions
+                    [ul]
+                        [li]Oils - Magical oils[/li]
+                        [li]Potions - Magical potions[/li]
+                    [/ul]
+                [/li]
+                [li]Runes
+                    [ul]
+                        [li]Weapons[/li]
+                        [li]Armor[/li]
+                    [/ul]
+                [/li]
+                [li]Architecture
+                    [ul]
+                        [li]Wondrous Architecture - Defenses: Wondrous architecture that is directly associated with damage and prevention of damage[/li]
+                        [li]Wondrous Architecture - Mobility: Wondrous architecture that is associated with stronghold mobility or vehicles[/li]
+                        [li]Wondrous Architecture - Rooms: Rooms that have various effects[/li]
+                    [/ul]
+                [/li]
+            [/ul]
+        [/li]
+    [li]Combat Magics[/li]
+        [ul][li]Evocation[/li]
+            [li]By Energy Type[/li][/ul]
+        [ul][li]Creature Transmutation[/li]
+            [li]Self[/li]
+            [li]Others[/li][/ul]
+        [ul][li]Mental Attacks and Illusions[/li]
+            [li]Phantasams[/li]
+            [li]Glamers[/li][/ul]
+    [/ul]
+        
+  
+  [h1]Society[/h1]
+    History
+
+Fire
+
+Enchantment
+
+Abjuration
+    Guarding
+        Wards
+        Barriers
+        Traps
+    Meta
+        Pure
+
+Transmutation
+    Creature
+        Self
+        Other
+    Inanimate
+        Type
+        Shape
+
+Evocation
+    Independently Fire, Air, Earth, Water, Force
+        Target
+        Line, Cone
+        Burst
+        Creations
 
 Necromancy
 	Undead
 		Undead Creation
-			Summon Undead, Create Undead
 		Undead Control
 			Bind Undead
 		Corpse Manipualation
@@ -83,11 +271,41 @@ Abjuration
 Divination
     Clairvoyance, Scouting Eye, Scrying, Pinpoint, Retrocognition
 
+Missing Erudition Categories
+    Evocation
+    Healing
+    Illusion Mental
+    Transmutation Personal
+    Creation (Imaginary Lockbox)
 
+Schema 1: Lifeshaping
+    Polymorphing - Temporary changes to creatures
+        1: By Creature type
+        2: Baleful, Beneficient
+        3: Self, Other
+    Fleshwarping - Permanent creature changes
+        Size 
+        Form - Adding an extra arm, or changing arm to a claw
+        Attribute - Adding scales
+        Internal - Ability to breath water
+    Inanimate - Changes to objects
+        Type - Earth to mud, lead to gold, heat metal
+        Shape - Stone shaping, Stone Bridge
 
-Necromancy
-	Undead
-		Undead Creation
-		Undead Control
-		Undead Affecting
-	Combat
+Schema 2: Lifeshaping
+    Polymorph
+        2: Baleful, Beneficient
+        3: Self, Other
+    Fleshwarping
+        By Creature Types
+    Inanimate
+        Type
+        Shape
+    
+
+Enchantment
+Construct
+Diviner
+
+Undead Creatures of Notes
+Facetbound

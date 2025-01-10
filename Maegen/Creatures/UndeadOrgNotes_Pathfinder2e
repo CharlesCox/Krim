@@ -1,0 +1,73 @@
+
+Mainline Regiment
+1 Dread General - Creature 12
+    6 Mindless Undead - Creature 9
+    8 Dread Captain - Creature 9
+        48 Mindless Undead - Creature 5
+        64 Dread Lieutenants - Creature 5
+            384 Mindless Undead - Creature 3 max
+            64 Dread Sergeants - Creature 3
+                384 Mindless Undead - Creature 2 max
+
+Elite Regiment
+1 Dread General - Creature 12
+    6 Mindless Undead - Creature 9
+    8 Dread Captain - Creature 9
+        48 Mindless Undead Creature 5
+        64 Dread Lieutenants - Creature 5
+            512 Awakened Undead 
+
+
+Elite Elemnt Costs:
+Dread General 6000 gp
+Dread Captain 2100 gp * 8 = 16800 gp
+Dread Lieutenant 480 gp * 64 = 30720 gp
+Awakened Undead 18 gp * 512 = 9216 gp
+6 Mindless Undead Creature 9 = 6 * 2100 gp = 12600 gp
+
+Element Mainline Costs:
+Dread General 6000 gp
+Dread Captain 2100 gp * 8 = 16800 gp
+Dread Lieutenant 480 gp * 64 = 30720 gp
+Dread Sergeant 180 gp * 64 = 11520 gp
+Skelton Champion 105 gp * 768 = 80640 gp
+Awakend Skeleton Champion 126 gp * 768 = 96768 gp
+Skelton 15 gp * 768 = 11520 gp
+Awakened Skeleton 18 gp * 768 = 13824 gp
+
+Skilled Teacher-Class training
+2.5 xp/day *400 days = 1000 xp
+800 days for 2 levels
+
+
+1000 xp / 10 xp/day = 100 days
+1000 xp / 10 xp/day = 100 days
+1000 xp / 10 xp/day = 100 days
+1000 xp / 5 xp/day = 200 days
+
+1000 xp + 2000 xp + 3000 xp + 4000 xp + 5000 xp + 6000 xp + 7000 xp + 8000 xp + 9000 xp + 10000 xp = 55000 xp
+55000 xp / 14 xp/day = 3928.57 days /365 days = 10.75 years
+10000 xp / 14 xp/day = 714.29 days / 365 days = 1.96 years
+
+10 xp day * 330 days * 58.5 years = 192150 xp
+
+Awaken Undead  1/5 cost of creature of that level
+Creature creation cost:
+-1 or 0: 2  15 gp
+1    2     60 gp
+2    3    105 gp
+3    3      180 gp
+4   4      300 gp
+5   4      480 gp
+6   5      750 gp
+7   5      1080 gp
+8   6      1500 gp
+9   6      2100 gp
+10  7      3000 gp
+11  7      4200 gp
+12  8      6000 gp
+13  8      9000 gp
+14  9      13500 gp
+15  9      19500 gp
+16  10     30000 gp
+17  10     45000 gp
