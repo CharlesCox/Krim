@@ -1,0 +1,45 @@
+
+Albynorx20 map has 1 pixel = 0.7 miles.
+Suggesting 14 miles per pixel for original map.
+Suggesting that Grekiy map has 2 miles per pixel.
+    => 712 * 2 = 1424 miles across for the full map => 2,291 km
+
+Make greiky_base.jpg in DungeonFog Deius
+
+Comes out 3,840 by 2,880 pixels.
+=> 1 pixel = 0.4 miles.
+Width 256 = > 102 miles
+
+Color guide: https://www.reddit.com/r/wonderdraft/comments/xy00bm/maiherpris_wonderdraft_coloring_tips_and_tricks/#lightbox
+Forest guide: https://www.reddit.com/r/wonderdraft/comments/y0ovoa/wonderdraft_forests_and_swamps_tips_and_tricks/
+Mtn.
+
+Size 20 - AoA Mtn Lrg SC
+Then Size 15 - AoA Mtn Lrg SC
+Then Size 10 - AoA Mtn Lrg SC
+
+Size 10 - AoA Hills Round SC
+
+Color by using land - > ground brush with filter set to Mountains
+Get a decent starter template by applying the Terra one filtered to only applying the gound colors.
+
+Hill.
+
+AoA Hills Sc size 15
+
+Forests
+
+Spray Brush with guide densities and Generic Tree
+
+Guide:
+    Start Placement Rate 1. Density 1.45 place the core of the forest.
+    Then reduce to Density 1. and place around the edge.
+    Then either go manual or density 0.25 and place some more farther out.
+
+Forests on detail map - start with Symbol Scale 20 
+
+
+Put cities on Layer - -3.
+Also should've used layers for other things but filtering apparently works on something else.
+Use symbol size 45 for small city
+Use 8b2c10 as primary city color
