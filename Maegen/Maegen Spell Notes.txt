@@ -155,6 +155,7 @@ Mystic Armor, Environmental Endurance, Everlight, Water Breathing, Fireball, Lig
                 [li]Constructs
                     [ul]
                         [li]Bound - Homonucli and other constructs that are bound an individual[/li]
+                        [li]Clockwork - clockwork constructs[/li]
                         [li]Statuary - humanoid/creature like constructs[/li]
                         [li]Animated Objects - animated ballista and the like[/li]
                     [/ul]
@@ -176,6 +177,7 @@ Mystic Armor, Environmental Endurance, Everlight, Water Breathing, Fireball, Lig
                 [li]Runes
                     [ul]
                         [li]Weapons[/li]
+                        [li]Ammunition[/li]
                         [li]Armor[/li]
                     [/ul]
                 [/li]
@@ -213,8 +215,18 @@ Abjuration
         Barriers
         Traps
     Meta
+        Mantles
         Pure
-
+Enchantment
+    Influence
+        Emotion
+        Compulsion
+    Mental Attack
+        Personal
+        Group
+    Communication
+        Telepathic
+        Empathic
 Transmutation
     Creature
         Self
@@ -222,6 +234,15 @@ Transmutation
     Inanimate
         Type
         Shape
+Evocation
+    Attack
+        Single Target
+        Area
+    Walls
+        Walls
+    Force
+        Manipulation
+        Force
 
 Evocation
     Independently Fire, Air, Earth, Water, Force
