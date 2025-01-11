@@ -15,7 +15,7 @@ Conjuration
 Mentalism
     Influence
         Compulsion
-        Charm
+        Emotion
     Detection
         Telepathic
         Remote Sensors
@@ -41,8 +41,9 @@ Warmagic
         Barriers
         Mantles
 Metamagic
-    Pure
-        Meta
+    Fundamental
+        Metamagic
+        Counterspells
         Detection - (Detect Magic, Detect Metal, Read Aura, Detect Creator, Detect Scrying)
     Entangled
         Traps
@@ -50,6 +51,7 @@ Metamagic
 Artifice
     Constructs
         Bound
+        Clockworks
         Statuary
         Animated Objects
     Wondrous Items
@@ -59,6 +61,7 @@ Artifice
         Apex
     Runes
         Weapons
+        Ammuition
         Armor
     Architecture
         Defenses
@@ -77,8 +80,7 @@ Elemental Materialism
    Fire
     Transmutation - Objects
     Movement
-    Illusion - Shadow Duplication
-    Illusion - Shadow Mimicry
+    Shadow 
    Water
     Transmutation - Objects
     Movement
@@ -139,6 +141,25 @@ Enchanter
             Transmission
             Reception
 
+Arcane tradition spells that are illusions and from the Player Core
+Figment - False sensations (Figment C, Illusory Object 1, Embed Message 2, Illusory Creature 2, False Vision 5, Illusory Scene 5, mislead 6, Project Image 7)
+Glamer - Change existing things appearance (Light C, Illusory Disguise 1, Item Facade 1, Ventriloquism 1, Blur 2, Everlight 2,
+ Invisibility 2, Mirage 4, mislead 6, disappearance 8)
+Pattern - Create images that affect the mind (Dizzying Colors 1, Hypnotize 3, Vibrant Pattern 6)
+Phantasm - Image only in target + caster's mind (Nightmare 4, Hallucination 5, Phantasmal Calamity 6, Mask of Terror 7, phantasmagoria 9)
+
+Shadow - Quasi-real (Looks like this isn't really part of illusion anymore)
+
+Phantasmal Minion - Not an illusion - 
+Illusionist
+    Schema 1:
+        Illusion
+            Physical
+                Figment
+                Glamer
+            Mental
+                Pattern
+                Phantasm
 
 Lifeshaper
 Construct
