@@ -62,8 +62,7 @@ Mystic Armor, Environmental Endurance, Everlight, Water Breathing, Fireball, Lig
             Hungry - Creation of physical need undead (vampire, ghoul, etc)
             Incorporeal - Creation of incorporeal undead
         Mortem Imperium
-            Domination - Spells that control undead
-            Affectation - spells that boost undead and/or transform undead
+            Domination - Spells that control undead or boost undead
         Vitae
             Soul Necromancy - Soul Trap, Astral Projection
             Wrath Necromancy - direct damage and death effects
@@ -97,12 +96,12 @@ Mystic Armor, Environmental Endurance, Everlight, Water Breathing, Fireball, Lig
         Influence
             Emotion
             Compulsion
-        Mental Attack
-            Personal
-            Group
-        Communication
+        Mental Illusion
+            Pattern
+            Phantasm
+        # Communication
             # Telepathic
-            Empathic
+            # Empathic
     Transmutation
         Creature
             Self
@@ -161,23 +160,19 @@ Mystic Armor, Environmental Endurance, Everlight, Water Breathing, Fireball, Lig
             Wondrous Architecture - Defenses: Wondrous architecture that is directly associated with damage and prevention of damage
             Wondrous Architecture - Mobility: Wondrous architecture that is associated with stronghold mobility or vehicles
             Wondrous Architecture - Rooms: Rooms that have various effects
-    Combat Magics
-        Evocation
-            By Energy Type
-        Creature Transmutation
-            Self
-            Others
-        Mental Attacks and Illusions
-            Phantasams
-            Glamers
+    # Combat Magics
+    #     Evocation
+    #         By Energy Type
+    #     Creature Transmutation
+    #         Self
+    #         Others
+    #     Mental Attacks and Illusions
+    #         Phantasams
+    #         Glamers
         
   
   [h1]Society[/h1]
     History
-
-Fire
-
-Enchantment
 
 Abjuration
     Guarding
@@ -215,6 +210,13 @@ Evocation
         Manipulation
         Force
 
+Illusion
+    Physical
+        Figment
+        Glamer
+    Mental
+        Pattern
+        Phantasm
 Evocation
     Independently Fire, Air, Earth, Water, Force
         Target
