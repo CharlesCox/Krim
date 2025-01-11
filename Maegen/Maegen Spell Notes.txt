@@ -93,7 +93,7 @@ Mystic Armor, Environmental Endurance, Everlight, Water Breathing, Fireball, Lig
         Fundamental
             Counterspells
             Metamagic
-    Enchantment and Illusion
+    Mentalism
         Influence
             Emotion
             Compulsion
