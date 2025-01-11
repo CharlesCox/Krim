@@ -56,150 +56,120 @@ Mystic Armor, Environmental Endurance, Everlight, Water Breathing, Fireball, Lig
 17th level - Base +31[br]
 20th level - Base +35[br]
 [h1]Arcana[/h1]
-    [ul]
-        [li]Necromancy
-            [ul]
-                [li]Mortem Anima
-                    [ul]
-                        [li]Corporeal - Creation of non-physical need undead (skeleton, zombie, lich)[/li]
-                        [li]Hungry - Creation of physical need undead (vampire, ghoul, etc)[/li]
-                        [li]Incorporeal - Creation of incorporeal undead[/li]
-                    [/ul]
-                [/li]
-                [li]Mortem Imperium
-                    [ul]
-                        [li]Domination - Spells that control undead[/li]
-                        [li]Affectation - spells that boost undead and/or transform undead[/li]
-                    [/ul]
-                [/li]
-                [li]Vitae
-                    [ul]
-                        [li]Soul Necromancy - Soul Trap, Astral Projection[/li]
-                        [li]Wrath Necromancy - direct damage and death effects[/li]
-                        [li]Drain Necromancy - indirect damage (stat, negative level, etc.)[/li]
-                    [/ul]
-                [/li]
-            [/ul]
-        [/li]
-        [li]Shadow
-            [ul]
-                [li]Netherworld
-                    [ul]
-                        [li]Travel - planar travel through or to the Plane of Shadow (Shadow walk) or via a vis it[/li]
-                        [li]Shadow Binding - the inhabitants of the plane of shadows and their binding[/li]
-                        [li]Shadow Summoning - the inhabitants of the plane of shadows and their summoning[/li]
-                        [li]Shadow Control - the inhabitants of the plane of shadows and their control[/li]
-                        [li]Shadow Creation - the inhabitants of the plane of shadows and their creation[/li]
-                    [/ul]
-                [/li]
-                [li]Shade
-                    [ul]
-                        [li]Darkness - spells dealing directly with a reduction of light and/or creation control of darkness[/li]
-                        [li]Mimicry - quasi-real mimicry of effects (Shadow Blast)[/li]
-                        [li]Creation - (Imaginary Lockbox, etc)[/li]
-                        [li]Movement - Haste and similar movement buffs[/li]
-                    [/ul]
-                [/li]
-                [li]Illusion
-                    [ul]
-                        [li]Duplication - dealing with shadowy doubles of things or creatures[/li]
-                        [li]Hide - personal concealment and disguise[/li]
-                        [li]Project - visual and auditory external illusions[/li]
-                    [/ul]
-                [/li]
-            [/ul]
-        [/li]
-        [li]Manipulation
-            [ul]
-                [li]Large Area
-                    [ul]
-                        [li]Wards - Area defenses[/li]
-                        [li]Barriers - Globes/walls etc.[/li]
-                    [/ul]
-                [/li]
-                [li]Small Scale
-                    [ul]
-                        [li]Mantles - Personal defenses[/li]
-                        [li]Traps - Item or specific location based (Symbols, Sepia Snake Sigil, glyphs)[/li]
-                    [/ul]
-                [/li]
-                [li]External Shaping (Non-Creature)
-                    [ul]
-                        [li]Permanent[/li]
-                        [li]Temporary[/li]
-                    [/ul]
-                [/li]
-            [/ul]
-        [/li]
-        [li]Divination
-            [ul]
-                [li]Temporal
-                    [ul]
-                        [li]Prophecy - Prediction of the future[/li]
-                        [li]Historical - Investigation of the past[/li]
-                    [/ul]
-                [/li]
-                [li]Sensing
-                    [ul]
-                        [li]Magic - Detecting magical effects/emanations[/li]
-                        [li]Creatures - Locating creatures[/li]
-                        [li]Objects - Locating objects or items[/li]
-                        [li]Sensors - creating sensors to sense remotely[/li]
-                        [li]Mind Reading[/li]
-                    [/ul]
-                [/li]
-            [/ul]
-        [/li]
-        [li]Artifice
-            [ul]
-                [li]Constructs
-                    [ul]
-                        [li]Bound - Homonucli and other constructs that are bound an individual[/li]
-                        [li]Clockwork - clockwork constructs[/li]
-                        [li]Statuary - humanoid/creature like constructs[/li]
-                        [li]Animated Objects - animated ballista and the like[/li]
-                    [/ul]
-                [/li]
-                [li]Wondrous Items
-                    [ul]
-                        [li]Wands[/li]
-                        [li]Staves[/li]
-                        [li]Miscelaneous Magic Items[/li]
-                        [li]Apex[/li]
-                    [/ul]
-                [/li]
-                [li]Potions
-                    [ul]
-                        [li]Oils - Magical oils[/li]
-                        [li]Potions - Magical potions[/li]
-                    [/ul]
-                [/li]
-                [li]Runes
-                    [ul]
-                        [li]Weapons[/li]
-                        [li]Ammunition[/li]
-                        [li]Armor[/li]
-                    [/ul]
-                [/li]
-                [li]Architecture
-                    [ul]
-                        [li]Wondrous Architecture - Defenses: Wondrous architecture that is directly associated with damage and prevention of damage[/li]
-                        [li]Wondrous Architecture - Mobility: Wondrous architecture that is associated with stronghold mobility or vehicles[/li]
-                        [li]Wondrous Architecture - Rooms: Rooms that have various effects[/li]
-                    [/ul]
-                [/li]
-            [/ul]
-        [/li]
-    [li]Combat Magics[/li]
-        [ul][li]Evocation[/li]
-            [li]By Energy Type[/li][/ul]
-        [ul][li]Creature Transmutation[/li]
-            [li]Self[/li]
-            [li]Others[/li][/ul]
-        [ul][li]Mental Attacks and Illusions[/li]
-            [li]Phantasams[/li]
-            [li]Glamers[/li][/ul]
-    [/ul]
+    Necromancy
+        Mortem Anima
+            Corporeal - Creation of non-physical need undead (skeleton, zombie, lich)
+            Hungry - Creation of physical need undead (vampire, ghoul, etc)
+            Incorporeal - Creation of incorporeal undead
+        Mortem Imperium
+            Domination - Spells that control undead
+            Affectation - spells that boost undead and/or transform undead
+        Vitae
+            Soul Necromancy - Soul Trap, Astral Projection
+            Wrath Necromancy - direct damage and death effects
+            Drain Necromancy - indirect damage (stat, negative level, etc.)
+    Shadow
+        Netherworld
+            Travel - planar travel through or to the Plane of Shadow (Shadow walk) or via a vis it
+            Shadow Creatures
+            # Shadow Binding - the inhabitants of the plane of shadows and their binding
+            # Shadow Summoning - the inhabitants of the plane of shadows and their summoning
+            # Shadow Control - the inhabitants of the plane of shadows and their control
+            # Shadow Creation - the inhabitants of the plane of shadows and their creation
+        Shade
+            Darkness - spells dealing directly with a reduction of light and/or creation control of darkness
+            Shadow - quasi-real mimicry of effects (Shadow Blast, Shadow Double, Shadow Army)
+            Creation - (Imaginary Lockbox, etc)
+            Movement - Haste and similar movement buffs
+        Illusion
+            Glamer - concealment and false images
+            Figment - visual and auditory external illusions
+    Abjuration
+        Guarding
+            Wards
+            Barriers
+            Traps
+            Mantles
+        Fundamental
+            Counterspells
+            Metamagic
+    Enchantment and Illusion
+        Influence
+            Emotion
+            Compulsion
+        Mental Attack
+            Personal
+            Group
+        Communication
+            # Telepathic
+            Empathic
+    Transmutation
+        Creature
+            Self
+            Other
+        Inanimate
+            Type
+            Shape
+    Evocation
+        Attack
+            Single Target
+            Area
+        Walls
+            Walls
+        Force
+            Manipulation
+            Force
+    # Manipulation
+    #     Large Area
+    #         Wards - Area defenses
+    #         Barriers - Globes/walls etc.
+    #     Small Scale
+    #         Mantles - Personal defenses
+    #         Traps - Item or specific location based (Symbols, Sepia Snake Sigil, glyphs)
+    #     External Shaping (Non-Creature)
+    #         Permanent
+    #         Temporary
+    Divination
+        Temporal
+            Prophecy - Prediction of the future
+            Historical - Investigation of the past
+        Sensing
+            Magic - Detecting magical effects/emanations
+            Creatures - Locating creatures
+            Objects - Locating objects or items
+            Sensors - creating sensors to sense remotely
+            Mind Reading
+    Artifice
+        Constructs
+            Bound - Homonucli and other constructs that are bound an individual
+            Clockwork - clockwork constructs
+            Statuary - humanoid/creature like constructs
+            Animated Objects - animated ballista and the like
+        Wondrous Items
+            Wands
+            Staves
+            Miscelaneous Magic Items
+            Apex
+        Potions
+            Oils - Magical oils
+            Potions - Magical potions
+        Runes
+            Weapons
+            Ammunition
+            Armor
+        Architecture
+            Wondrous Architecture - Defenses: Wondrous architecture that is directly associated with damage and prevention of damage
+            Wondrous Architecture - Mobility: Wondrous architecture that is associated with stronghold mobility or vehicles
+            Wondrous Architecture - Rooms: Rooms that have various effects
+    Combat Magics
+        Evocation
+            By Energy Type
+        Creature Transmutation
+            Self
+            Others
+        Mental Attacks and Illusions
+            Phantasams
+            Glamers
         
   
   [h1]Society[/h1]
@@ -214,9 +184,10 @@ Abjuration
         Wards
         Barriers
         Traps
-    Meta
         Mantles
-        Pure
+    Fundamental
+        Counterspells
+        Metamagic
 Enchantment
     Influence
         Emotion
