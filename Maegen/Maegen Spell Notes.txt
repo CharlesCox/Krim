@@ -78,8 +78,7 @@ Mystic Armor, Environmental Endurance, Everlight, Water Breathing, Fireball, Lig
         Shade
             Darkness - spells dealing directly with a reduction of light and/or creation control of darkness
             Shadow - quasi-real mimicry of effects (Shadow Blast, Shadow Double, Shadow Army)
-            Creation - (Imaginary Lockbox, etc)
-            Movement - Haste and similar movement buffs
+            Creation - (Imaginary Lockbox, etc) temporary only
         Illusion
             Glamer - concealment and false images
             Figment - visual and auditory external illusions
