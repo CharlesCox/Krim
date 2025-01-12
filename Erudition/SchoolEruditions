@@ -1,0 +1,181 @@
+School of Ars Grammatica
+Runes and wards, numbers and letters—they underpin all magic, making them the logical subject for a wizard who studies fundamental forces. Perhaps you studied at the Pathfinder Society's School of Spells or a similar institution, but whether you're lacing your words with magic to compel others, casting wards around your workshop, or destabilizing the very structure of an opponent's spells, you know this unassuming school carries elegant power.
+
+Curriculum
+cantrips: message, sigil
+1st: command, disguise magic, runic body, runic weapon
+2nd: dispel magic, translate
+3rd: enthrall, veil of privacyU
+4th: dispelling globeU, suggestion
+5th: sending, truespeechU
+6th: repulsion, spellwrack
+7th: contingency, planar sealU
+8th: quandary, unrelenting observation
+9th: detonate magicU
+
+School Spells
+initial: protective wards
+advanced: rune of observation
+
+Language
+    command, translate, enthrall, suggestion, sending, truespeech
+Metamagic
+    disguise magic, dispel magic, veil of privacy, dispelling globe, spellwrack, contingency, planar seal, detonate magic
+Runes*
+    runic body, runic weapon, rune of observation, protective wards
+??
+    repulsion, 
+    quandry,
+    unrelenting observation
+
+School of Battle Magic
+
+Magic is power, and there are always those who will use power for the art of battle. You may have studied in the military of a nation of the brink of war—Cheliax and Andoran perhaps, or Geb and Nex. You summon whirling energies that can lay waste to both soldiers and armies, while being sure not to neglect arcane countermeasures for common tactical complications or the shields and defenses that keep combatants alive on the battlefield.
+
+Curriculum
+cantrips: shield, telekinetic projectile
+1st: breathe fire, force barrage, mystic armor
+2nd: mist, resist energy
+3rd: earthbind, fireball
+4th: wall of fire, weapon storm
+5th: howling blizzard, impaling spike
+6th: chain lightning, disintegrate
+7th: energy aegis, true target
+8th: arctic rift, desiccate
+9th: falling stars
+
+School Spells
+initial: force bolt
+advanced: energy absorption
+
+Attack
+    Breathe fire, force barrage, fireball, weapon storm, howling blizzard, impaling spike, chain lightning, disintegrate, artic rift, dessicate, falling stars, force bolt*
+Defence
+    mystic armor, resist energy, energy aegis, energy absorption*
+Battlefield Control
+    mist, earthbind, wall of fire
+Boosting
+    true target
+
+School of the Boundary
+Why use your magic to affect something as pedestrian as the physical world? Whether you studied at the College of Dimensional Studies in Katapesh or an underground school in haunted Ustalav, you've turned your magic past the Universe to the forces beyond, summoning spirits and shades, manipulating dimensions and planes, and treading in a place not meant for mortals.
+
+Curriculum
+cantrips: telekinetic hand, void warp
+1st: grim tendrils, phantasmal minion, summon undead
+2nd: darkness, see the unseen
+3rd: bind undead, ghostly weapon
+4th: flicker, translocate
+5th: banishment, invoke spirits
+6th: teleportU, vampiric exsanguination
+7th: eclipse burst, interplanar teleportU
+8th: quandary, unrelenting observation
+9th: massacre
+
+School Spells
+initial: fortify summoning
+advanced: spiral of horrors
+
+Void
+    grim tendrils, darkness, vampiric exsanguination, eclipse burst, massacre
+Necromancy -- probably collapse to void
+    summon undead, bind undead
+Summon -- probably move to ghosts
+    phantasmal minion, banishment, fortify summoning*
+Ghosts
+    See the unseen, ghostly weapon, invoke spirits, spiral of horrors*
+Teleportation
+    flicker, translocate, teleport, interplanar teleport, quandry
+???
+    unrelenting observation
+
+School of Civic Wizardry
+Whether you studied in Manaket's Occularium or the Academy of Applied Magic, you learned that the fruits of arcane studies—like any other field—should ultimately help the common citizen. You've learned the humble art of construction, of finding lost people and things, of moving speedily among buildings and moats—yet these same arts can be turned to demolition, and the constructs you animate to build bridges can just as easily tear them down.
+
+Curriculum
+cantrips: prestidigitation, read aura
+1st: hydraulic push, pummeling rubble, summon construct
+2nd: revealing light, water walk
+3rd: cozy cabin, safe passage
+4th: creation, unfettered movement
+5th: control water, wall of stone
+6th: disintegrate, wall of force
+7th: planar palaceU, retrocognition
+8th: earthquake, pinpointU
+9th: foresight
+
+School Spells
+initial: earthworks
+advanced: community restoration
+
+Structural Manipulation
+    hydraulic push, pummeling rubble, summon construct, safe passage, control water, wall of stone, earthquake, earthworks*
+Creation
+    cozy cabin, creation, wall of force, planar palace
+Movement
+    water walk, unfettered movement
+Divination?
+    retrocognition, pinpoint, foresight, revealing light
+???
+    disintegrate, community restoration*
+
+School of Mentalism
+As a scholar, you know all too well the importance of a sound mind. Thus, you attended a school—like the Farseer Tower or the Stone of the Seers—that taught the arts of befuddling lesser minds with figments and illusions or implanted sensations and memories.
+
+Curriculum
+cantrips: daze, figment
+1st: dizzying colors, sleep, sure strike
+2nd: illusory creature, stupefy
+3rd: dream message, mind readingU
+4th: nightmare, vision of death
+5th: hallucination, illusory scene
+6th: never mind, phantasmal calamity
+7th: project image, warp mind
+8th: disappearance, uncontrollable dance
+9th: phantasmagoria
+
+School Spells
+initial: charming push
+advanced: invisibility cloak
+
+Mentalism
+    dizzying colors, sleep, stupefy, dream mesage, mind reading, nightmare, vision of death, hallucination, never mind, phantasmal calamity, warp mind, uncontrollable dance, phantasmagoria, charming push*
+Illusion
+    illusory creature, illusory scene, project image, disappearance, invisibility cloak*
+
+School of Protean Form
+
+The uninitiated often think of wizards as cerebral, focused on their studies more than the body, yet your school of magic taught of the relationship between the two. Your magic, whether learned at a storied institution like Kintargo's Alabaster Academy or someplace more sinister, like the Fleshforges of Nex, focuses on the ways that living matter can be convinced into another shape for a time, allowing you to polymorph a seed into a vine, a human into a beast, or a harmless germ into a deadly toxin.
+
+Curriculum
+cantrips: gouging claw, tangle vine
+1st: jump, pest form, spider sting
+2nd: enlarge, humanoid form
+3rd: feet to fins, vampiric feast
+4th: mountain resilience, vapor form
+5th: elemental form, toxic cloud
+6th: cursed metamorphosis, petrify
+7th: duplicate foe, fiery body
+8th: desiccate, monstrosity form
+9th: metamorphosis
+
+School Spells
+initial: scramble body
+advanced: shifting form
+
+Transmutation
+    jump, pest form, spider sting, enlarge, humanoid form, feet to fins, mountain resilience, vapor form, elemental form, cursed metamorphsis, petrify, duplicate foe, fiery body, dessicate, monstrosity form, metamorphosis
+???
+    vampiric feast, toxic cloud
+
+School of Unified Magical Theory
+
+You eschew the idea that magic can be neatly expressed by the teachings of any single school or college, instead directing your self-study to pick up the best of every school of magic. In doing so, you'll find the truths that lie at the intersection of each school, coming closer to the ideal nature of arcane magic. One day, you'll uncover that single elegant theory detailing all magic (perhaps a theory bearing your name?), but until then, your studies continue.
+
+No Curriculum You don't have a set curriculum, and so you don't have curriculum spells and can't benefit from abilities that specifically affect them. Instead, you gain an additional 1st-level wizard class feat, and you add one 1st- rank spell of your choice to your spellbook to represent your diverse studies.
+Your studies into the very nature of magic itself have let you use it more efficiently—instead of using Drain Bonded Item only once per day, you can use it once per day for each rank of spell you can cast, recalling a spell of that rank each time.
+
+School Spells
+initial: hand of the apprentice
+advanced: interdisciplinary incantation
+
