@@ -137,12 +137,16 @@ Mystic Armor, Environmental Endurance, Everlight, Water Breathing, Fireball, Lig
             Objects - Locating objects or items
             Sensors - creating sensors to sense remotely
             Mind Reading
-    Artifice
-        Constructs
-            Bound - Homonucli and other constructs that are bound an individual
+    Constructs
+        Construction
+            Homonucli
             Clockwork - clockwork constructs
             Statuary - humanoid/creature like constructs
             Animated Objects - animated ballista and the like
+        Mechanics
+            Domino - control of constructs
+            Gears - status effects on constructs
+    Items
         Wondrous Items
             Wands
             Staves
@@ -155,19 +159,24 @@ Mystic Armor, Environmental Endurance, Everlight, Water Breathing, Fireball, Lig
             Weapons
             Ammunition
             Armor
-        Architecture
-            Wondrous Architecture - Defenses: Wondrous architecture that is directly associated with damage and prevention of damage
-            Wondrous Architecture - Mobility: Wondrous architecture that is associated with stronghold mobility or vehicles
-            Wondrous Architecture - Rooms: Rooms that have various effects
-    # Combat Magics
-    #     Evocation
-    #         By Energy Type
-    #     Creature Transmutation
-    #         Self
-    #         Others
-    #     Mental Attacks and Illusions
-    #         Phantasams
-    #         Glamers
+    Architecture
+        Wondrous Architecture - Defenses: Wondrous architecture that is directly associated with damage and prevention of damage
+            Weapons - cannons and other semi-structural (non-animate) enchantments
+            Screens - Damage upon pass through
+            Prevention - Reinforced
+        Wondrous Architecture - Mobility: Wondrous architecture that is associated with stronghold mobility or vehicles
+            Air
+            Water
+            Land
+            Planar
+        Wondrous Architecture - Rooms: Rooms that have various effects
+            Healing - 
+            Boosting - doing other tasks is better (+1 status bonus to crafting, etc.)
+            Creation - Everful larder, etc.
+            Storage - Bag of Holding style
+
+
+
         
   
   [h1]Society[/h1]
