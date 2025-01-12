@@ -128,17 +128,15 @@ Planar
     Banishment, Teleport, Planar Seal, Flicker, Dimenonsial Steps
 
 
-School of the Ebon Mausoleum
 Iconic:
     Compulsion, Fear
-
-
 Enchanment
     Fear, Charming Push, Daze, Mask of Terror, Spiral of Horros
 Illusion
     Disappearance
 Necromancy
-    Summon Undead,  Rouse Skeeltons, Invoke Spirits, Tempest of Shades
+    Summon Undead,  Rouse Skeeltons, 
+    Invoke Spirits, Tempest of Shades
     Bind Undead,
     Bone Spray, 
     Enervation
@@ -147,3 +145,41 @@ Necromancy
     Awaken Entropy, Vampiric Exsanguination, Weird
 ???
     Boil Blood
+
+
+
+School Erudition Zones
+School of Tenebrous Beyond
+Shadowed Reality
+    Shade
+        Shadow
+        Illusion
+    Reality
+        Force
+        Gravity
+    Intersection
+        Planar
+
+School of the Ebon Mausoleum
+Ebon Mausoleum
+    Vampiric Magic
+        Charm
+        Fear
+    Mortem Anima
+        Corporeal
+        Hungry - Creation of physical need undead (vampire, ghoul, etc)
+        Incorporeal - Creation of incorporeal undead
+    Necromantic Combat
+        Wrath Necromancy - direct damage and death effects
+        Drain Necromancy - indirect damage (stat, negative level, etc.)
+
+Ebon Mausoleum
+    Vampire Magic
+        Charm
+        Fear
+    Mortem
+        Skeletal
+        Vampiric
+        Spirit
+
+    
