@@ -29,6 +29,9 @@ cantrips: Daze, Torturous Trauma
 
 School Spells initial: Charming Push; advanced: Spiral of Horrors
 
+
+
+
 School of the Twilight Sages
 Yled is home to a number of important necromantic colleges, the most well-known being the Mortuarium. The twilight sages there carry out experiments on flesh and bone, seeking to unlock the secrets of life and death. While the twilight sages generally aren’t actively malicious, most are willing to perform human experimentation in pursuit of knowledge with little regard for the casualties.
 
@@ -60,6 +63,22 @@ cantrips: Gouging Claw, Take Root
 
 School Spells initial: Scramble Body; advanced: Shifting Form
 
+School of the Twilight Sages
+Transmutation
+    Enlarge, Mountain Resilience, Grisly Growths, Cursed Metamorphisis, Monstrosity Form, Shifting Form, Scramble Body
+    Dessicate, Life-Draining Roots
+???
+    Black Tentacles, Implostion, Paralyze, Brine Dragon Bile
+
+Acid
+    Corrosive Body, Stinking Cloud, Brine Dragon Bile, Dessicate, Disintegrate
+Fleshwarping
+    Grisly Growths, Cursed Metamorphosis, Paralyze, Mountain Resilience, Life-Draining Roots, Ant Haul, Enfeeble, Enlarge
+Tentacles
+    Life-Draining Roots, Black Tentacles
+???
+    Hungry Depths,  Gritty Wheeze, Implosion
+
 School of the Tenebrous Beyond
 One of the more practical, militaristic branches among the Yled magical schools, the Tenebrous Beyond was given the mandate of studying the type of planar magic favored by Nex himself in order to develop suitable countermeasures against Nexian armies and spellcasters.
 
@@ -90,3 +109,41 @@ cantrips: Phase Bolt, Shield
 9th: Foresight
 
 School Spells initial: Force Bolt; advanced: Dimensional Steps
+
+
+School of the Tenebrous Beyond
+Iconic:
+    Force, Planar
+Illusions
+    Illusory Object, Shadow Projectile
+Shadow
+    Shadow Projectile, Shadow Siphon, Ravenous Darkness, Eclipse Burst
+Divination
+    Foresight, See the Unseen
+Force/Gravity
+    Force Barrage, Gravity Well, Resilient Sphere, Faling Sky (mb Phase Bolt), Force Bolt
+Abjruation
+    Resilient Sphere, Hidden Mind, Planar Seal, Dispel Magic, Mystic Armor, Shield
+Planar
+    Banishment, Teleport, Planar Seal, Flicker, Dimenonsial Steps
+
+
+School of the Ebon Mausoleum
+Iconic:
+    Compulsion, Fear
+
+
+Enchanment
+    Fear, Charming Push, Daze, Mask of Terror, Spiral of Horros
+Illusion
+    Disappearance
+Necromancy
+    Summon Undead,  Rouse Skeeltons, Invoke Spirits, Tempest of Shades
+    Bind Undead,
+    Bone Spray, 
+    Enervation
+    False Vitality, 
+    Death Ward
+    Awaken Entropy, Vampiric Exsanguination, Weird
+???
+    Boil Blood
