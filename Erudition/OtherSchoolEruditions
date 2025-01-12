@@ -1,3 +1,79 @@
+Red Mantis Magic School - Erudition Zone: Assasination
+Assassination
+    Positioning
+        Speed
+        Control
+    Perception
+        Sight
+        Concealment
+
+School of Aethereal Astrologies - Erudition Zone: Celestial Aether
+Celestial Aether
+    Stars
+        Light
+        Gravity
+    Guidance
+        Time
+        Divination
+
+School of Dwermic Entertainment - Erudition Zone: Performance
+Performance
+    Emotion
+        Fear
+        Attachment
+        Anger
+        Disgust
+        Amusement
+    Image
+        Concealment
+        Display
+
+School of Medical Arcana - Erudition Zone: Arcane Medicine
+Arcane Medicine
+    Therapeutics
+        Disease
+        Body
+    Materials
+        Purification
+        Manipulation
+
+School of Planar Jurisprudence - Erudition Zone: Law
+Law
+    Natural
+        Time
+        Magic
+    Social
+        Judgment
+        Knowledge
+
+School of Penumbral Sculpture - Erudition Zone: Shadow
+Shadow
+    Netherworld
+        Travel - planar travel through or to the Plane of Shadow (Shadow walk) or via a vis it
+        Shadow Creatures
+        # Shadow Binding - the inhabitants of the plane of shadows and their binding
+        # Shadow Summoning - the inhabitants of the plane of shadows and their summoning
+        # Shadow Control - the inhabitants of the plane of shadows and their control
+        # Shadow Creation - the inhabitants of the plane of shadows and their creation
+    Shade
+        Darkness - spells dealing directly with a reduction of light and/or creation control of darkness
+        Shadow - quasi-real mimicry of effects (Shadow Blast, Shadow Double, Shadow Army)
+        Creation - (Imaginary Lockbox, etc) temporary only
+    Illusion
+        Glamer - concealment and false images
+        Figment - visual and auditory external illusions
+
+School of Wandering Steps - Erudition Zone: Travel
+Travel
+    Paths
+        Pathfinding
+        Obstruction
+    Survival
+        Perception
+        Endurance
+        
+Red Mantis Magic School
+
 While any thug can commit a murder, proper assassination requires finesse and guile. Deep within the Crimson Citadel, the Red Mantis assassins have developed a specific selection of spells they teach to all magically capable members. These spells complement the assassins’ clandestine and deadly methods.
 
 Curriculum
@@ -24,6 +100,8 @@ Perception
     Sure strike, clairaudience, clairvoyance, unrelenting observation
 ??? -- mb movement?
     paralyze
+
+
 
 School of Aethereal Astrologia
  Your magic is inspired by the stars above; how they
@@ -85,6 +163,8 @@ Conjuration
 ???
     Sparkleskin, phantom orchestra, shine spotlight, grand finale
 
+
+
 School of Medical Arcana
  Biology is a mystery waiting to be properly understood,
  and through the arcane, you believe you can unravel it.
@@ -143,6 +223,8 @@ The shape of a shadow is sculpted through obstruction
     illusory disguise, nightmare, mislead, phantasmal calamity, dream council
 ???
     hidden mind
+
+Shadow -> from Maegan?
 
 School of Planar Jurisprudence
  Throughout the universe and the planes beyond it, there
@@ -210,3 +292,4 @@ Obstruction
     mist, wall of thorns, grasping earth, stagnate time
 ???
     dancing fountain, dream council, summon archmage
+
