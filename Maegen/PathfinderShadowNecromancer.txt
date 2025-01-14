@@ -1,0 +1,36 @@
+Origin: https://forums.giantitp.com/showthread.php?74519-Descent-of-Shadows-Project-Shadow-Returns&p=4077943#post4077943
+
+Shadowcasters are famous for trying to separate themselves from the moral labels attached to their dark powers. The most famous example would have to be the Shadow Necromancer, who puts aside the normal stigma attached with reanimation of the undead to make an inexhaustible supply of loyal servants.
+
+
+Additional Feats: 4th: Additional Companion, Mature Beastmaster Companion,
+Shadow Spells
+6th: Companion's cry, Disciple of Shade; 8th: Incredible Beastmaster Companion, Shadow Spell, Guardian Ghosts; 10th: Shadow reservoir; 12th: Secrets of Shadow, Shadow Magic
+14th: Specialized Beastmaster Companion, Additional Shadow Magic, Shadow Illusion, Unending Emptiness; 16th: Shadow Power
+
+
+Shadow Necromancer Dedication: Feat 2
+Prerequisites: ability to cast spells
+You gain an ebon guard undead companion.
+If a undead companion named into the Ebon Guard had an intelligence modifier less than 0 it is changed to 0. 
+The rules for undead companions are the same as the Undead Master archetype and generally follow those of animal companions.
+
+Contrary to the usual rules for companions, as an shadow necromancer it's possible for you to have more than one undead companion at a time. However, only one of those companions, your “active companion,” follows you during exploration and encounters; the rest are reduced to an “inactive” state that reside in an incorporeal state in your shadow. If you ever have more than one undead companion, you gain the Call Companion action, with your undead companions taking the place of animal companions.
+
+
+Cloak of Shadow: Feat 2
+You gain the cloak of shadow domain spell. It costs 1 Focus Point to cast a focus spell. This feat grants a focus pool of 1 Focus Point that you can recover using the Refocus activity. You can Refocus by meditating to siphon power from the Shadow Plane and refill your focus pool. Your domain spells from the shadow necromancer archetype are of the same tradition as the spells you used to meet the shadow necromancer archetype's prerequisites.
+
+Ebon Call: One action activity Feat 10
+Prerequisites: Shadow Necromancer Dedication, Call Companion, Cloak of Shadow
+Frequency: once per 10 minutes
+You quickly swap the location of two of your ebon guard through your shadow cloak. One of the ebon guard must be your active companion and must be inside the area of effect of your cloak of shadow domain spell. The other companion can be up to 100 miles away, it must be in a lower light level than full daylight or in an inactive state inside your shadow.
+
+Ebon Army:  - Feat 16
+Prerequisites: Shadow Necromancer Dedication, Ebon Call
+You can have two active ebon guard at a time. This functions identically to Lead the Pack except as specified below.
+All members of the ebon guard gain the ability to communicate telepathically with the necromancer from 100 feet. If your legendary in the skill asocaited with the magical tradition you used to meet the shadow necromancer prequisite then the range changes to anywhere on the planet.
+The area of your cloak of shadow increase to a 40 foot emantion and it's duration increases to 10 minutes. All members of the ebon guard within the area of your cloak of shadow gain fast healing 5.
+If a member of the ebon guard is destroyed they can be reconstructed via the restore ebon guard activity.
+Ebon Guard Activity (downtime, exploration, concentrate): You can restore to activity an ebon guard in 1 day if you have it's remains or 1 week otherwise.
+

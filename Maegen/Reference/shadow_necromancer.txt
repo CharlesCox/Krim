@@ -1,0 +1,132 @@
+Shadow Necromancer:
+“They’re corpses. Why would I give them a choice?”
+-Pontias Giberton, Shadow Necromancer
+
+Shadowcasters are famous for trying to separate themselves from the moral labels attached to their dark powers. The most famous example would have to be the Shadow Necromancer, who puts aside the normal stigma attached with reanimation of the undead to make an inexhaustible supply of loyal servants.
+
+BECOMING A SHADOW NECROMANCER
+Although a few rare cultists of dark causes best left unnamed take up this path, most of its practitioners are shadowcasters. Although some Shadowcaster/Necromancers and Shadowcaster/Clerics become shadow necromancers, the stress of multiclassing slows down the process.
+Entry Requirements:
+Skills: Hide 8 ranks, Knowledge (arcane) 8 ranks, Spellcraft 8 ranks.
+Shadowcasting: ability to cast the Walking dead mystery.
+
+The Shadow Necromancer Hit Die: d6
+Code:
+Level  BAB  Fort Ref  Will  Special                          Mysteries
+1      +0   +2   +0   +2    Aura of Shade, Moral Ambiguity   
+2      +1   +3   +0   +3    Ebon Guard (1)                   +1 level of existing mystery-using class
+3      +1   +3   +1   +3    Twilight Aura                    +1 level of existing mystery-using class
+4      +2   +4   +1   +4    Ebon Guard (2)                   +1 level of existing mystery-using class
+5      +2   +4   +1   +4    Corpsecrafter                    +1 level of existing mystery-using class
+6      +3   +5   +2   +5    Ebon Guard (3)                   +1 level of existing mystery-using class
+7      +3   +5   +2   +5    Create Spawn                     +1 level of existing mystery-using class
+8      +4   +6   +2   +6    Ebon Guard (4)                   +1 level of existing mystery-using class
+9      +4   +6   +3   +6    Advanced Animations              +1 level of existing mystery-using class
+10     +5   +7   +3   +7    Ebon Army, Ebon Guards (5)       +1 level of existing mystery-using class
+Class Skills (2 + Int modifier per level): Concentration, Decipher Script, Hide, Intimidate, Knowledge (arcane), Knowledge (the planes), Listen, Move Silently, Spellcraft, Spot.
+
+Class Features: The shadow necromancer is a master of undead animation, animating them with shadow instead of negative energy.
+
+Mysteries: at every level after 1st, you gain new mysteries and an increase in caster level as if you had also gained a level in a mystery-using class to which you belonged before adding the prestige class level. You do not, however, gain any other benefits a character of that class would have gained. If you had more than one mystery-using class before becoming a Shadow Necromancer, you must choose which class to add each level.
+
+Aura of Shade (Su): A Shadow Necromancer emanates an area of supernatural shade, going out to 5 ft/class level. All undead within this area gain turn resistance equal to the Shadow Necromancer’s HD level while all other living creatures take a –2 penalty on saving throws. In addition, this area is kept in perpetual shadowy illumination.
+
+Moral Ambiguity: A Shadow Necromancer sees past the petty labels given to him by those who do not understand his art. As a result, his alignment is not affected by the animation of undead.
+
+Ebon Guard (Su): At 2nd level and every odd level afterwards, the Shadow necromancer may select one undead creature they have animated through the walking dead mystery to live on as their permanent minion. This minion gains maximum hit points per HD, gains the Dark template, and gains an intelligence score of 10 (even if 10 is higher than the base creature’s intelligence score). In addition, skeletons chosen can take full rounds of actions while zombies lose their penalty to attack and damage rolls. Lastly, these minions last until they are destroyed, at which point the Shadow necromancer can indicate a new undead to join their Ebon Guard.
+
+Twilight Aura: The Shadow Necromancer’s Aura of Shade eventually starts to leak negative energy. Starting at 3th level, all undead within its reaches gain fast healing 1 while all attempts to use spells of the healing subschool require a dc20 caster level check.
+
+Corpsecrafter: The Shadow Necromancer gains corpsecrafter as a bonus feat at 5th level.
+
+Create Spawn: Starting at 7th level, any creature slain within the Shadow Necromancer’s Aura of Shade are reanimated as shadows 1d4 rounds afterwards, as long as they remain in the aura until that time. These Shadows are under the control of the Shadow Necromancer. A Shadow Necromancer can control up to 4 hit dice/level of shadows in this way (not counting towards any other limit of undead controlled).
+
+Advanced Animation: At 9th level, a Shadow Necromancer gains any feat with corpsecrafter as a prerequisite as a bonus feat.
+
+Ebon Army: At 10th level, a Shadow Necromancer’s entourage seems inexhaustible. All undead that they animate via the Walking Dead mystery become
+members of their Ebon Guard, so long as they remain within their Aura of Shade. If they at any point leave the aura, they return to normal undead and the duration of Walking Dead begins, even if they return into the aura later. All specifically chosen members of the Ebon guard can enter and leave the aura freely. In addition, all members of the ebon guard can communicate telepathically with the shadow necromancer.
+
+PLAYING A SHADOW NECROMANCER
+Some NPC shadow necromancers, much like masters of shadow, become domineering individuals. Others, however, choose instead to use their undead to help in their research. Their undead can assist their research in ways as complex as an arcane dissection or as simple as fetching a nearby book or beaker. Although they have a small army at their disposal, they are more often than not simple researchers, as if to prove that undead animation does not effect the animator.
+You are welcome in the tenebrous cabal if you should wish to join. Due to the nature of your minions, the Nightshade Covenant and Votaries of Vecna are more than pleased to see you join with them but wish to see you eradicated if you refuse to.
+
+COMBAT
+Your greatest weapons are two-fold. The first that you get is your aura of shade, protecting your undead from troublesome clerics while weakening the defenses of your foe. Your second powerful weapon is your ebon guard, an ever-expanding rank of intelligent, shadow-infused undead that protect you with far more proficiency than the normal walking dead.
+
+ADVANCEMENT
+The means by which you animate and empower the undead are often learned, rather than discovered. However, there are almost no shadow necromancers willing to teach. Instead, when most shadow necromancers reach an old age, they inscribe the instructions of how to establish an aura of shade and ebon guard onto the flesh or bone of one of their ebon guard and set it aside. Should the shadow necromancer never come back to it, it is ordered to go out into the world and try to teach a potential candidate. As many such undead are slain upon sight rather than read, it is not wholly unusual for a shadow necromancer to send out a random undead with such instructions every now and again.
+Continued advancement leads to increased power of your army, as your aura of shade expands, the ranks of your ebon guard increase, and you eventually reanimate shadows within your aura, to say nothing for your increased shadowcasting ability. To take the most advantage of your aura of shade, it is best to take mysteries that require saving throws. From a strategic vantage point, however, choosing mysteries that summon additional aid is wise.
+
+RESOURCES
+You tend to see other of your training almost as brothers, further distancing yourself from the stereotype of emotionally dead necromancers. After all, it may have been any shadow necromancer’s minion that taught you the art yourself. With close personal friends, together with your minions, other shadow necromancers, and members of your organization (if any), you have enough allies to accomplish many goals. Alas, many items created for the use of undead control merely effect how many undead you can control, a meaningless factor for shadow necromancers. If you can find something to increase the power of your undead, however, it would be insane to not try to obtain it.
+
+SHADOW NECROMANCERS IN THE WORLD
+“The necromancer approached with his pitch-black horde and we all thought we were doomed, see. But then, he just asks to see the library. He reads a couple of cookbooks and is off on his merry way. I need another drink”
+-Cayov Mcgallo, Baker
+
+The shadow necromancer is the perfect road for someone who loves the undead. As one does not need to be evil to be a shadow necromancer (and indeed, could be good), this is an excellent way to put the craft into the hands of the PCs.
+
+DAILY LIFE
+A shadow necromancer, as a rule of thumb, rarely lives too fancily. They prefer to live in Spartan accommodations (ranging down to and including cemeteries) with their minions. They spend a lot of their time researching and practicing their art. Even though they have minions, shadow necromancers are stuck delivering their own messages, due to their minions’ tendency to get killed on the road.
+Only when a shadow necromancer really gets into a position of power do they really put their undead to work. They normally supplement the town’s guard with some of their ebon guard while lending out lesser undead to townspeople in need of cheap labor. Although such a society may seem appalling to an outsider, most people inside of the society actually appreciate how much easier the undead can make their lives.
+
+NOTABLES
+The greatest known shadow necromancer to date is Callembar Glopt, the very first shadow necromancer and the creation of the Walking Dead mystery (He is not undead. Rather, the art of shadow necromancy is only about 60 years old). Since its creation, Callembar has been surpassed in his own art by Sigfried Trent, the first individual to enter the Nightshade Covenant by pure merit.
+
+ORGANIZATION
+The Tenebrous Cabal welcomes you into its ranks with open arms and there are no limits, unofficial or otherwise, on how far they can progress in the Parliament of Shadows. Due to its relatively short existence, however, no shadow necromancer has ever made it into the parliament. The nightshade covenant also welcomes you with open arms. Its undead members see you as a natural boon while its other members see you as a way to keep the undead in check. The Votaries of Vecna have a special respect for the shadow necromancer. They are knowledgeable enough to know there is no means by which shadow magic can control existing undead. With that knowledge in tow, shadow necromancers seems as an obvious boon to the undead members of the votary. In fact, much like with children of night, a shadow necromancer who joins need not die in the process, should they not wish to for some reason.
+
+NPC REACTIONS:
+NPC reactions to shadow necromancers are normally negative. They often see them as either a shadow caster or (more likely) as a necromancer, neither of which is openly welcomed in most societies. In a society that is already ruled by a shadow necromancer, however, individuals are at least friendly towards another follower of the same road. Most shadowcasters and necromancers alike are indifferent towards the shadow necromancer.
+
+SHADOW NECROMANCER LORE
+Characters with ranks in Knowledge (arcane) or Knowledge (the planes) can research shadow necromancers to learn more about them. When a character makes a skill check, read or paraphrase the following, including the information from lower DCs.
+DC 10: Some shadow magic users called shadow necromancers expound upon undead reanimation.
+DC 15: shadow necromancers rely both on an aura of supernatural shade and an honor guard of shadow-infused undead to protect them.
+DC 20: shadow necromancers have actually managed to separate themselves from the normal stigma of undead reanimation. Many of them are actually benevolent.
+A bardic knowledge check or a Gather Information check can reveal the same information as these Knowledge checks, but in each case the DC is 5 higher than the given value.
+
+SHADOW NECROMANCERS IN THE GAME
+Shadow necromancers prefer to do their own work, using their undead as aides rather than as proxies. Although the practice is new, it is possible that the nearby necromancer locked up in his tower is indeed a shadow magic practitioner. Otherwise, the option might fall into your players laps as another shadow necromancer’s skeleton walks up to your party, inscribed from head to toe with instructions.
+Anyone who enjoys controlling others, managing complex tactics, or simply controlling the undead makes for an ideal shadow necromancer. Although there are some fights that even the souped-up ebon guard cannot win, the ability to control and empower so many troops should prove rewarding so long as they can replenish their troops when they fall.
+
+ADAPTATION
+The easiest adaptation to a shadow necromancer is to let it use negative energy, just like any other necromancer. Making it the stereotypical evil-to-the-bone necromancer is another way to fit it into play.
+
+SAMPLE ENCOUNTER:
+Admittedly, a hooded figure who carries around their own aura of shade, and who is surrounded by an honor guard of pitch black skeletons and zombies, is about as subtle as a hole in the head. Use that to your advantage. That way, when your players fight a shadow necromancer, they know that they aren’t facing just any old necromancer. As a twist, you could easily have that same imposing figure turn out to be good, and see if a party’s good faith can overcome their old prejudices.
+EL 17: Callembar Glopt is the venerable creator of the shadow necromancer. As its first practitioner, it nearly earned him a place within the Parliament of Shadows, which he politely turned down. Callembar has been traveling the world, looking for new scraps of necromantic lore for him to write down in his memoir.
+Callembar Glopt CR 17
+Venerable Male Human Shadowcaster 9/Shadow Necromancer 8
+TN Medium humanoid (human)
+Init +0; Senses Darkvision 30 feet; Listen +0, Spot +20
+Languages Common, Elven, Dwarven, Gnome, Draconic
+AC 19, touch 13, flat-footed 19
+hp 96 (17 HD)
+Fort +14, Ref +5, Will +12
+Speed 30 ft. (6 squares)
+Melee +2/+2 quarterstaff +9 (1d6+1/1d6+1)
+Ranged +1 Light crossbow +9 (1d8+1/19-20)
+Base Atk +8 ; Grp +7
+Special Actions Shadow Cast, Still Mystery, Extend Mystery, Line of Shadow, Quicken Mystery, Shadow Vision
+Combat Gear Ring of Nullification, Shadow maniple, 4 orbs of shadow , Greater Shroud of Night, 2 orbs of shadow (apprentice 1st)
+Mysteries Known (CL 16th)
+Master Paths
+8th—Soul Puppet (spell, 1/day)
+7th—Summon Umbral Servant (spell, 1/day), Dark Soul (spell, 1/day), Truth Revealed (spell, 1/day)
+Initiate Paths
+6th—Twisted Summons (spell-like, 2/day)
+5th—Walking Dead (supernatural, 4/day), Echo Spell (spell-like, 2/day)
+4th—Bolster (spell-like, 2/day), Warp Body (spell-like, 2/day), Warp Spell (spell-like, 2/day)
+Apprentice paths:
+3rd—Sharp Shadows (supernatural, 3/day), Dancing Shadows (supernatural, 3/day)
+2nd—Sight obscured (supernatural, 3/day), Shadow Skin (supernatural, 3/day)
+1st—Steel Shadows (supernatural, 3/day), Dusk and Dawn (supernatural, 3/day)
+Fundamentals
+0—umbral hand (supernatural, 3/day), Mystic Reflections (supernatural, 3/day), Caul of Shadow (supernatural, 3/day), Arrow of Dusk (supernatural, 3/day, +7 ranged touch attack), Olden Tales (Supernatural, 3/day), Shadowy Touch (Supernatural, 3/day, DC 14)
+
+Abilities Str 8, Dex 10, Con 14, Int 18, Wis 11, Cha 18
+SQ Sustaining Shadow (eat 1 meal/week), Aura of Shade, Twilight Aura, Create Spawn
+Feats Favored Mystery (Walking Dead) (2), Extend Mystery, Shadow Cast, Still Mystery, Line of Shadow, Quicken Mystery, Shadow Reflection, Shadow Vision, Corpsecrafter
+Skills Concentration +22, Intimidate +24, Knowledge (arcana) +24, Knowledge (the planes) +24, Spellcraft +24, Spot +20
+Possessions combat gear plus +2/+2 Quarterstaff, +1 Light Crossbow with 20 bolts, Cloak of resistance +1, 370 gp.
