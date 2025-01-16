@@ -61,16 +61,6 @@ Arcana
         Communication
             Telepathic
             Empathic
-    Fire
-        Attacks
-            Single Target
-            Area
-        Creatures
-            Binding
-            Summoning
-        Aegis
-            Walls
-            Mantles
     Artifice
         Power
             Steam
@@ -99,3 +89,15 @@ Arcana
             Weapons
             Ammunition
             Armor
+    Fire
+        Attacks
+            Single Target
+            Area
+        Creatures
+            Binding
+            Summoning
+        Aegis
+            Walls
+            Mantles
+
+Metamagic

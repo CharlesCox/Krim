@@ -1,0 +1,172 @@
+
+1000 books -> 100 bulk
+2 booklots -> 100 bulk
+10 draws -> 1 bulk
+
+1st: Alarm, Fear, Summon Undead, Grim Tendrils
+2nd: Darkness, Dispel Magic, Peaceful Rest, Bone Spray
+3rd: Bind Undead, Clairaudience, Lightning Bolt, Cozy Cabin
+4th: Clairvoyance, Detect Scrying, Fly, Shape Stone
+5th: Scouting Eye, Umbral Journey, Slither, Mind Probe
+6th: Scrying, Teleport, Truesight, Wall of Force
+7th: Contingency, Eclipse Burst, Retrocognition, Planar Seal
+8th: Hidden Mind, Pinpoint, Disappearance
+9th: Massacre, Bilocation
+
+School Spells 
+1st: grim tendrils
+2nd: Darkness
+3rd: Wall of Shadow
+4th: Replicate
+5th: Shadow Blast
+6th: Mislead
+7th: Eclipse Burst
+8th: Hidden Mind
+9th: Unspeakable Shadow 
+ School Spells initial: shadow puppetry; advanced: darkness form
+
+
+Level 11
+1st: Alarm, Fear, Summon Undead, Grim Tendrils*, Gentle Landing
++ Researched on route to Golem's Rest: Phantasmal Minion, Mystic Armor
+2nd: Darkness*, Dispel Magic, Peaceful Rest, Bone Spray, Invisibility
+3rd: Bind Undead, Clairaudience, Lightning Bolt, Cozy Cabin, Wall of Shadow*
+4th: Clairvoyance, Detect Scrying, Fly, Shape Stone, Replicate*
+5th: Scouting Eye, Umbral Journey, Slither, Mind Probe, Shadow Blast*
+6th: Scrying, Teleport, Mislead*
+
+
+11	10th: 1, 9th: 2, 8th: 1, 7th: 2	500 gp	3,200 gp
++50% for wealthy scion
+
+Necromancy
+    Mortem Anima
+        Corporeal - Creation of non-physical need undead (skeleton, zombie, lich)
+            Summon Undead
+        Incorporeal - Creation of incorporeal undead
+    Mortem Imperium
+        Domination - Spells that control undead or boost undead
+    Vitae
+        Soul Necromancy - Soul Trap, Astral Projection
+        Wrath Necromancy - direct damage and death effects
+            Grim Tendrils (2)
+        Drain Necromancy - indirect damage (stat, negative level, etc.)
+            Fear (2)
+Shadow
+    Netherworld
+        Travel - planar travel through or to the Plane of Shadow (Shadow walk) or via a vis it
+        Shadow Creatures
+    Shade
+        Darkness - spells dealing directly with a reduction of light and/or creation control of darkness
+            Grim Tendrils (2)
+        Shadow - quasi-real mimicry of effects (Shadow Blast, Shadow Double, Shadow Army)
+        Creation - (Imaginary Lockbox, etc) temporary only
+    Illusion
+        Glamer - concealment and false images
+        Figment - visual and auditory external illusions
+
+Mirrors
+    Reflection - Demphasis on Damaging versions
+        Wards
+            Alarm (2)
+        Barriers
+        Mantles
+        Counterspells
+    Vision
+        Divination - Objects
+        Divination - Creatures
+        Divination - Magic
+
+
+
+
+
+Research Timeline
+Alexia 9th, year 21 (level 11) -> Lexu 23rd year 21: Travel to Golem's Rest
+21+30+23 days = 74 days * 0.25 = 18.5 days
+1/4 research rate
+Lexu 23rd, year 21 -> Vaeru 28th, year 22: At Golem's Rest
+7+1+97+67+28 = 200 days * 0.25 = 50 days
+Vaeru 28th, year 22 -> Summer's End 4, year 22: Travel and concealment 6 days
+
+Level 11 Base Research Ability: +22
+Master lot+6 = 28 - Erudition 100 =+10 
+DCs are 5* spell level + 25
+1st: 30, 2nd: 35, 3rd: 40, 4th: 45, 5th: 50, 6th: 55, 7th: 60, 8th: 65, 9th: 70
+1st Level Spell - 9 days
+2nd Level Spell - 18 days
+3rd Level Spell - 27 days
+
+
+11th Level Wizard
+Background: Scholar - Arcana 
+    Assurance (Arcana)
+    Academia Lore
+    +Intelligence, +Charisma
+Ancestry: Human - Skilled
+    +Intelligence, +Dexterity
+3 Ancestry Feats:
+    1st: --Natural Ambition
+    5th: --General Training
+    9th: --Incredible Initiative
+Class: Wizard
+    +Intelligence
+Trained in 7 Skills:
+    Arcana, Crafting, Society, Religion, Diplomacy, Nature, +3
+General:
+    +Intelligence, +Wisdom, +Constitution, +Charisma
+5 Skill Feats:
+    Arcana: Arcane Sense, 
+    Crafting: Magical Crafting
+    Society: ?Multilingual?, Eye for Numbers
+    Lore: Unmistakeable Lore, Efficient Explorer
+5 Wizard Feats:
+    2nd: Enhanced Familiar
+    4th: Linked Focus
+    6th: 
+    8th: Advanced School Spell
+    10th: Quickened Casting
+3 General Feats:
+    3rd: Fleet
+    7th: Incredible Initative
+    11th: Robust Health
+5 Skill increases: (2 trained -> expert, 3 expert -> master)
+    Expert Arcana
+    Expert Religion
+    Master Arcana
+    Expert Diplomacy
+    Master Diplomacy
+Skilled Human:
+    Expert Crafting
+Fortitude: Expert
+Will: Expert
+Reflex: Expert
+Expert Fortitude, Expoert Simple and Unarmed, Expert Reflex, Expert Will, Expert Perception
+
+Arcane School: School of Penumbral Sculpture
+Arcane Thesis: Enhanced Familiar (Raven)
+Raven Abilities: 
+    Flight, Share Senses, Speech, Kinspeech, Manual Dexterity, Skilled
+
+Free Archetype 5 Feats:
+    2nd: Shadow Necromancer Dedication
+    4th: Cloak of Shadow
+    6th: Disciple of Shade or Mature Companion
+    8th: Additional Companion
+    10th: Ebon Call
+    #12th: Shadow Magic
+    #14th: Unending Emptiness
+    #16th: Ebon Army
+
+Saegwyn
+11th Level Witch
+Patron: 
+5 Skill Feats'
+Crafting: Magical Crafting
+5 Witch Feats
+3 General Feats
+5 Skill increases  (2 trained -> expert, 3 expert -> master)
+2 Attribute Boosts
+3 Ancestry Feats
+
+Free Archetype 5 Feats

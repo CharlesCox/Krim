@@ -28,14 +28,13 @@ Notable Spells
 9th: Falling Stars
 
 
-1st: Alarm, Fear, Summon Undead, Grim Tendrils
-2nd: Darkness, Dispel Magic, Peaceful Rest, Bone Spray
-3rd: Bind Undead, Clairaudience, Lightning Bolt, Cozy Cabin
-4th: Clairvoyance, Detect Scrying, Fly, Shape Stone
-5th: Scouting Eye, Umbral Journey, Slither, Mind Probe
-6th: Scrying, Teleport, Truesight, Wall of Force
-7th: Contingency, Eclipse Burst, Retrocognition, Planar Seal
-8th: Hidden Mind, Pinpoint, Disappearance
+2nd: Darkness*, Dispel Magic, Peaceful Rest, Bone Spray, Invisibility
+3rd: Bind Undead, Clairaudience, Lightning Bolt, Cozy Cabin, Wall of Shadow*
+4th: Clairvoyance, Detect Scrying, Fly, Shape Stone, Replicate*
+5th: Scouting Eye, Umbral Journey, Slither, Mind Probe, Shadow Blast*
+6th: Scrying, Teleport, Truesight, Wall of Force, Mislead*
+7th: Contingency, Eclipse Burst*, Retrocognition, Planar Seal, Project Image
+8th: Hidden Mind*, Pinpoint, Disappearance
 9th: Massacre, Bilocation
 
 Desired Rituals
